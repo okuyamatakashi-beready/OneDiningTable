@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 751.5 7492.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ebcb32;
+      }
+
+      .cls-2 {
+        fill: #e9a828;
+      }
+
+      .cls-3 {
+        fill: #e73c71;
+      }
+
+      .cls-4 {
+        fill: #7f2583;
+      }
+
+      .cls-5 {
+        fill: #1c68ac;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <polyline class="cls-1" points="613.4 3608.5 750.9 3608.5 750.9 3746"/>
+    <g>
+      <rect class="cls-1" x="1" y="5644.5" width="117.1" height="117.1"/>
+      <path class="cls-4" d="m1,5533c43.4,0,78.6,35.2,78.6,78.6s-35.2,78.6-78.6,78.6"/>
+    </g>
+    <g>
+      <rect class="cls-5" x=".9" y="4054.7" width="133.5" height="348.4" transform="translate(135.4 8457.9) rotate(180)"/>
+      <rect class="cls-4" x="134.4" y="4332.2" width="70.9" height="70.9" transform="translate(4537.6 4197.8) rotate(90)"/>
+    </g>
+    <g>
+      <rect class="cls-5" x="617.5" y="7143.6" width="133.5" height="348.4"/>
+      <rect class="cls-4" x="546.5" y="7421.1" width="70.9" height="70.9" transform="translate(8038.6 6874.6) rotate(90)"/>
+    </g>
+    <polyline class="cls-1" points="751.2 0 751.2 137.5 613.7 137.5"/>
+    <rect class="cls-5" x="97.1" y="-97.1" width="120.6" height="314.7" transform="translate(97.1 217.6) rotate(-90)"/>
+    <rect class="cls-4" x="314.7" y="120.6" width="64.1" height="64.1" transform="translate(693.4 305.2) rotate(180)"/>
+    <circle class="cls-2" cx="54.9" cy="1683.5" r="53.9"/>
+    <rect class="cls-3" x="619.5" y="2051.5" width="132.1" height="132.1" transform="translate(1371 4235.1) rotate(180)"/>
+    <rect class="cls-3" x=".9" y="6566.9" width="132.1" height="132.1" transform="translate(134 13265.9) rotate(180)"/>
+    <path class="cls-5" d="m659.8,2105.5c-35.7,0-64.7-29-64.7-64.7s29-64.7,64.7-64.7"/>
+  </g>
+</svg>

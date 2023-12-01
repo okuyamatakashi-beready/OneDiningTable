@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671.2 152.6">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: .1em;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: Toppan-BunkyuMidashiGoStdN-EB-83pv-RKSJ-H, 'Toppan BunkyuMidashiGoStdN';
+        font-size: 42px;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: .1em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: .1em;
+      }
+
+      .cls-11 {
+        letter-spacing: .1em;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <g>
+      <text class="cls-3" transform="translate(136.7 88.7)"><tspan class="cls-10" x="0" y="0">職</tspan><tspan class="cls-11" x="46.7" y="0">場</tspan><tspan class="cls-5" x="93.5" y="-5">体</tspan><tspan class="cls-1" x="140" y="0">験</tspan><tspan class="cls-8" x="184.2" y="8.9">ブ</tspan><tspan class="cls-4" x="225.1" y="0">ー</tspan><tspan class="cls-9" x="265.1" y="0">ス</tspan><tspan class="cls-6" x="306.6" y="-4.5">で</tspan><tspan class="cls-2" x="351.6" y="0">は</tspan></text>
+      <g>
+        <polyline class="cls-7" points="25.1 .2 .5 76.3 25.1 152.4"/>
+        <polyline class="cls-7" points="646 152.4 670.6 76.3 646 .2"/>
+      </g>
+    </g>
+  </g>
+</svg>

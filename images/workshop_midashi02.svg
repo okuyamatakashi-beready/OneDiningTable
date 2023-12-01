@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671.2 152.6">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .1em;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Toppan-BunkyuMidashiGoStdN-EB-83pv-RKSJ-H, 'Toppan BunkyuMidashiGoStdN';
+        font-size: 42px;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: .1em;
+      }
+
+      .cls-8 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: .1em;
+      }
+
+      .cls-11 {
+        letter-spacing: .1em;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <g>
+      <text class="cls-2" transform="translate(137.1 88.7)"><tspan class="cls-10" x="0" y="0">飲</tspan><tspan class="cls-11" x="46.7" y="-4">食</tspan><tspan class="cls-7" x="93.4" y="0">提</tspan><tspan class="cls-4" x="140.5" y="4.7">供</tspan><tspan class="cls-9" x="183.6" y="4.5">ブ</tspan><tspan class="cls-3" x="224.6" y="0">ー</tspan><tspan class="cls-5" x="264.5" y="0">ス</tspan><tspan class="cls-6" x="305.7" y="-5.7">で</tspan><tspan class="cls-1" x="350.7" y="0">は</tspan></text>
+      <g>
+        <polyline class="cls-8" points="25.1 .2 .5 76.3 25.1 152.4"/>
+        <polyline class="cls-8" points="646 152.4 670.6 76.3 646 .2"/>
+      </g>
+    </g>
+  </g>
+</svg>
