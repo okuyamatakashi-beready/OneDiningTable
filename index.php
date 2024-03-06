@@ -415,9 +415,30 @@
 				<li>
 					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img12.jpg" alt="">
 				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img15.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img16.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img17.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img18.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img19.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img20.jpg" alt="">
+				</li>
 			</ul>
 
 			<ul class="flex sponsor_sliver sponsor_list">
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img01.jpg" alt="">
+				</li>
 				<li>
 					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img15.jpg" alt="">
 				</li>
@@ -430,9 +451,27 @@
 				<li>
 					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img12.jpg" alt="">
 				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img11.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img05.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img07.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img18.jpg" alt="">
+				</li>
 			</ul>
 
 			<ul class="flex sponsor_bronze sponsor_list">
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img01.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img02.jpg" alt="">
+				</li>
 				<li>
 					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img24.jpg" alt="">
 				</li>
@@ -459,6 +498,61 @@
 				</li>
 				<li>
 					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img31.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img36.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img08.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img11.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img12.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img04.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img21.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img32.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img33.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img34.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img35.jpg" alt="">
+				</li>
+				
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img37.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img38.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img39.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img40.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img41.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img42.jpg" alt="">
+				</li>
+				<li>
+				</li>
+				<li>
+				</li>
+				<li>
 				</li>
 			</ul>
 			

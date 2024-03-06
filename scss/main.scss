@@ -1438,6 +1438,9 @@ li.toki figcaption::before {
 	sponsor
 *********************************/
 #sponsorship {
+    .container {
+        width: 1200px;
+    }
     h2 {
         text-align: center;
         margin-bottom: 60px;
@@ -1453,7 +1456,7 @@ li.toki figcaption::before {
         }
     }
     ul.sponsor_list {
-        margin-bottom: 90px;
+        margin-bottom: 150px;
         flex-wrap: wrap;
         justify-content: space-between;
         li {
@@ -1471,20 +1474,67 @@ li.toki figcaption::before {
         }
     }
     ul.sponsor_gold {
-        justify-content: flex-start;
+        justify-content: space-between;
+        &::after {
+            width: 380px;
+            content: "";
+            display: block;
+        }
         @media screen and (max-width: 768px) {
             justify-content: space-between;
         }
 
         li {
-            width: 263px;
+            width: 380px;
             margin-bottom: 20px;
-            margin-right: 115px;
+            text-align: center;
             &:nth-child(4) {
                 margin-bottom: 50px;
             }
-            &:nth-child(3n) {
-                margin-right: 0;
+            &:nth-child(1) {
+                img {
+                    width: 80%;
+                }
+            }
+            &:nth-child(2) {
+                img {
+                    width: 80%;
+                }
+            }
+            &:nth-child(6) {
+                img {
+                    width: 80%;
+                }
+            }
+            &:nth-child(7) {
+                img {
+                    width: 80%;
+                }
+            }
+            &:nth-child(9) {
+                img {
+                    width: 80%;
+                }
+            }
+            &:nth-child(10) {
+                img {
+                    width: 70%;
+                }
+            }
+            &:nth-child(11) {
+                img {
+                    width: 80%;
+                }
+            }
+            &:nth-child(13) {
+                img {
+                    width: 70%;
+                }
+            }
+            &:nth-child(14) {
+                img {
+                    width: 75%;
+                }
             }
             @media screen and (max-width: 768px) {
                 width: 100%;
@@ -1503,12 +1553,34 @@ li.toki figcaption::before {
         width: 100%;
         margin-right: auto;
         margin-left: auto;
-        justify-content: flex-start;
+        justify-content: space-between;
+        &::after {
+            width: 235px;
+            content: "";
+            display: block;
+        }
         li {
-            width: 172px;
-            margin-right: 40px;
-            &:nth-child(5n) {
+            width: 235px;
+            margin-right: 10px;
+            margin-bottom: 30px;
+            text-align: center;
+            &:nth-child(4n) {
                 margin-right: 0;
+            }
+            &:nth-child(3) {
+                img {
+                    width: 80%;
+                }
+            }
+            &:nth-child(8) {
+                img {
+                    width: 90%;
+                }
+            }
+            &:nth-child(7) {
+                img {
+                    width: 80%;
+                }
             }
         }
         
@@ -1518,6 +1590,7 @@ li.toki figcaption::before {
             li {
                 width: 50%;
                 margin-right: 0;
+                
             }
         }
     }
@@ -1525,7 +1598,12 @@ li.toki figcaption::before {
     ul.sponsor_bronze { 
         justify-content: space-between;
         li {
-            width: 100px;
+            width: 190px;
+            margin-right: 13px;
+            margin-bottom: 50px;
+            &:nth-child(5n) {
+                margin-right: 0;
+            }
             @media screen and (max-width: 768px) {
                 width: 60px;
             }
