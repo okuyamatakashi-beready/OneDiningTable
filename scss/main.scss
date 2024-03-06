@@ -224,6 +224,12 @@ main {
                 margin-right: auto;
                 
                 line-height: 2;
+                @media screen and (max-width: 768px) {
+                    p {
+                        text-indent: -3em;
+                        padding-left: 3em;
+                    }
+                }
                 span {
                     display: block;
                 }
@@ -1515,8 +1521,9 @@ li.toki figcaption::before {
             }
         }
     }
+
     ul.sponsor_bronze { 
-        justify-content: flex-start;
+        justify-content: space-between;
         li {
             width: 100px;
             @media screen and (max-width: 768px) {

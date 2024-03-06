@@ -349,6 +349,12 @@ main {
   margin-right: auto;
   line-height: 2;
 }
+@media screen and (max-width: 768px) {
+  #mv .mv_right figure figcaption p {
+    text-indent: -3em;
+    padding-left: 3em;
+  }
+}
 #mv .mv_right figure figcaption span {
   display: block;
 }
@@ -1800,7 +1806,7 @@ li.toki figcaption::before {
   }
 }
 #sponsorship ul.sponsor_bronze {
-  justify-content: flex-start;
+  justify-content: space-between;
 }
 #sponsorship ul.sponsor_bronze li {
   width: 100px;

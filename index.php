@@ -94,7 +94,11 @@
 				<figure>
 					<img src="<?php echo get_template_directory_uri(); ?>/images/mv_ttl2024-02.png" class="pc" alt="「いただきます」は楽しい。を知ってもらいたい！OneDiningTableFes">
 					<img src="<?php echo get_template_directory_uri(); ?>/images/mv_ttl_sp2024.png" class="sp" alt="「いただきます」は楽しい。を知ってもらいたい！OneDiningTableFes">
-					
+					<figcaption>
+						<p>後援：名古屋市、名古屋市教育委員会、名古屋市社会福祉協議会</p>
+						<p>協力：あいち子ども食堂ネットワーク、愛知子ども応援プロジェクト</p>
+						<p>助成：篠原欣子記念財団こども食堂応援プロジェクト</p>
+					</figcaption>
 				</figure>
 			</div>
 		</div>
@@ -378,6 +382,88 @@
 		<!-- //container -->
 	</section>
 	<!-- //who -->
+
+	<section id="sponsorship">
+		<div class="container">
+			<h2 class="sec_ttl">
+				<span>本イベントのご協賛企業様</span>
+				<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor_img.svg" alt="">
+			</h2>
+
+			<ul class="flex sponsor_gold sponsor_list">
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img10.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img14.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img01.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img09.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img02.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img04.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img05.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/gold_img12.jpg" alt="">
+				</li>
+			</ul>
+
+			<ul class="flex sponsor_sliver sponsor_list">
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img15.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img16.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img17.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img12.jpg" alt="">
+				</li>
+			</ul>
+
+			<ul class="flex sponsor_bronze sponsor_list">
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img24.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img25.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img26.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img10.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img27.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img28.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img29.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img30.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img31.jpg" alt="">
+				</li>
+			</ul>
+			
+		</div>
+	</section>
 
 
 	<div class="mv_under_image">
