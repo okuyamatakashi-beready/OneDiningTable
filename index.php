@@ -296,10 +296,10 @@
 				<small>One Dining Table FES.実行委員会</small>
 			</h2>
 
-			<ul class="flex member_list">
+			<!-- <ul class="flex member_list">
 				<li class="hasegawa anim_on5">
 					<figure>
-						<img src="<?php echo get_template_directory_uri(); ?>/images/hasegawa.jpg" alt="">
+						<img src="</?php echo get_template_directory_uri(); ?>/images/hasegawa.jpg" alt="">
 						<figcaption>
 							<span>長谷川 正和</span>
 							<p>
@@ -315,7 +315,7 @@
 				</li>
 				<li class="iyama anim_on5">
 					<figure>
-						<img src="<?php echo get_template_directory_uri(); ?>/images/iyama.jpg" alt="">
+						<img src="</?php echo get_template_directory_uri(); ?>/images/iyama.jpg" alt="">
 						<figcaption>
 							<span>井山 将成</span>
 							<p>
@@ -331,7 +331,7 @@
 				</li>
 				<li class="kato anim_on5">
 					<figure>
-						<img src="<?php echo get_template_directory_uri(); ?>/images/katou.jpg" alt="">
+						<img src="</?php echo get_template_directory_uri(); ?>/images/katou.jpg" alt="">
 						<figcaption>
 							<span>加藤 紀昭</span>
 							<p>
@@ -347,7 +347,7 @@
 				</li>
 				<li class="mizutani anim_on5">
 					<figure>
-						<img src="<?php echo get_template_directory_uri(); ?>/images/mizutani.jpg" alt="">
+						<img src="</?php echo get_template_directory_uri(); ?>/images/mizutani.jpg" alt="">
 						<figcaption>
 							<span>水谷 僚</span>
 							<p>
@@ -363,7 +363,7 @@
 				</li>
 				<li class="toki anim_on5">
 					<figure>
-						<img src="<?php echo get_template_directory_uri(); ?>/images/toki.jpg" alt="">
+						<img src="</?php echo get_template_directory_uri(); ?>/images/toki.jpg" alt="">
 						<figcaption>
 							<span>土岐 龍馬</span>
 							<p>
@@ -377,7 +377,22 @@
 						<p>普段はさまざまなイベントを企画・運営している会社を経営しています。今回のイベントを通じて、「子ども食堂の活動を世の中に広め、いただきますで世界を繋げていきたい」と思っています。気軽に足を運んでもらえるようなイベントを目指していきますので、よろしくお願いいたします。</p>
 					</div>
 				</li>
-			</ul>
+			</ul> -->
+
+			<figure class="member__img">
+				<img src="<?php echo get_template_directory_uri(); ?>/images/whoweare.jpg" alt="" class="pc">
+				<img src="<?php echo get_template_directory_uri(); ?>/images/whoweare_sp.jpg" alt="" class="sp">
+				<figcaption>
+					<span>［実行委員長］水谷僚</span><br>
+					<span>［実行委員］長谷川正和/井山将成/加藤紀昭/土岐龍馬/小林雅之/安田優/井原純也/桑原蓮/花守靖司/鈴木信之介/細江祐貴/淺野倫考</span>
+				</figcaption>
+			</figure>
+
+			<div class="whoweare__message">
+				<p>
+				「いただきます!!!」この言葉をとにかくたくさんの人たちと一緒にしたい!! みんなで食卓を囲んで、心のこもった食事をする。その当たり前のようで当たり前では無い、その楽しさや温かさは何にも代え難い幸せであります。そんな幸せな時間を1人でも多くの子どもたちに知ってもらう為に僕らの【子ども食堂】の活動があります。名古屋のど真ん中で一緒に叫びましょう！「いただきます!!! 」宜しくお願い致します！<br><span>2024年 実行委員長　水谷 僚</span>
+				</p>
+			</div>
 		</div>
 		<!-- //container -->
 	</section>

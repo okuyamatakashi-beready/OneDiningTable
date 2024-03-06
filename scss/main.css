@@ -788,6 +788,7 @@ h2.sec_ttl small {
 *********************************/
 #who {
   padding-top: 117px;
+  margin-bottom: 60px;
 }
 @media screen and (max-width: 768px) {
   #who {
@@ -862,6 +863,63 @@ h2.sec_ttl small {
   #who ul.member_list li figure figcaption::before {
     width: 24px;
     height: 80px;
+  }
+}
+#who figure.member__img {
+  margin-top: 90px;
+}
+@media screen and (max-width: 768px) {
+  #who figure.member__img {
+    margin-top: 40px;
+  }
+}
+#who figure.member__img img {
+  width: 100%;
+}
+#who figure.member__img figcaption {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 30px 50px;
+  background-color: #65BBB1;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0.2em;
+  line-height: 2em;
+}
+#who figure.member__img figcaption span {
+  text-indent: -0.5em;
+  display: inline-block;
+}
+@media screen and (max-width: 768px) {
+  #who figure.member__img figcaption {
+    padding: 20px 30px;
+    font-size: 14px;
+  }
+}
+#who .whoweare__message {
+  border: 2px dashed #282828;
+  box-sizing: border-box;
+  padding: 60px;
+  margin-top: 60px;
+}
+@media screen and (max-width: 768px) {
+  #who .whoweare__message {
+    padding: 30px;
+  }
+}
+#who .whoweare__message p {
+  font-size: 16px;
+  line-height: 2em;
+  letter-spacing: 0.2em;
+}
+#who .whoweare__message p span {
+  font-weight: bold;
+  padding-top: 20px;
+  display: inline-block;
+}
+@media screen and (max-width: 768px) {
+  #who .whoweare__message p {
+    font-size: 14px;
   }
 }
 
@@ -1719,6 +1777,11 @@ li.toki figcaption::before {
 *********************************/
 #sponsorship .container {
   width: 1200px;
+}
+@media screen and (max-width: 768px) {
+  #sponsorship .container {
+    width: 84%;
+  }
 }
 #sponsorship h2 {
   text-align: center;

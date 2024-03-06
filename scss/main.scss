@@ -617,6 +617,7 @@ h2.sec_ttl {
 
 #who {
     padding-top: 117px;
+    margin-bottom: 60px;
     @media screen and (max-width: 768px) {
         padding-top: 75px;
     }
@@ -683,6 +684,56 @@ h2.sec_ttl {
                     }
                     
                 }
+            }
+        }
+    }
+    figure.member__img {
+        margin-top: 90px;
+        @media screen and (max-width: 768px) {
+            margin-top: 40px;
+        }
+        img {
+            width: 100%;
+        }
+        figcaption {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 30px 50px;
+            background-color: #65BBB1;
+            font-size: 16px;
+            font-weight: bold;
+            letter-spacing: 0.2em;
+            line-height: 2em;
+            span {
+                text-indent: -0.5em;
+                display: inline-block;
+            }
+            @media screen and (max-width: 768px) {
+                padding: 20px 30px;
+                font-size: 14px;
+                
+            }
+        }
+    }
+    .whoweare__message {
+        border: 2px dashed #282828;
+        box-sizing: border-box;
+        padding: 60px;
+        margin-top: 60px;
+        @media screen and (max-width: 768px) {
+            padding: 30px;
+        }
+        p {
+            font-size: 16px;
+            line-height: 2em;
+            letter-spacing: 0.2em;
+            span {
+                font-weight: bold;
+                padding-top: 20px;
+                display: inline-block;
+            }
+            @media screen and (max-width: 768px) {
+                font-size: 14px;
             }
         }
     }
@@ -1440,6 +1491,9 @@ li.toki figcaption::before {
 #sponsorship {
     .container {
         width: 1200px;
+        @media screen and (max-width: 768px) {
+            width: 84%;
+        }
     }
     h2 {
         text-align: center;
