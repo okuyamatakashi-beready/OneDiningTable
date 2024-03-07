@@ -81,7 +81,7 @@ gsap.from(".box", {
     ease: "power2.out",
     stagger: {
       from: "start", 
-      amount: 1.6 
+      amount: 0.8 
     }
   });
 

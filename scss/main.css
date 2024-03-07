@@ -280,7 +280,12 @@ main {
 #mv {
   width: 100%;
   position: relative;
-  height: 100%;
+  height: 100vh;
+}
+@media screen and (max-width: 768px) {
+  #mv {
+    height: 100%;
+  }
 }
 #mv::before {
   content: "";
@@ -300,9 +305,15 @@ main {
 }
 #mv .flex {
   align-items: flex-start;
+  height: 100%;
 }
 #mv .mv_left {
   width: 50%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(./../images/mv_left.jpg);
 }
 #mv .mv_left img {
   width: 100%;
@@ -311,11 +322,17 @@ main {
   #mv .mv_left {
     width: 100%;
     order: 2;
+    height: 450px;
   }
 }
 #mv .mv_right {
   width: 50%;
   position: relative;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(./../images/mv_right.jpg);
 }
 #mv .mv_right img {
   width: 100%;
@@ -337,9 +354,11 @@ main {
   -ms-transform: translate(-50%, -50%);
   display: flex;
   flex-wrap: wrap;
+  text-align: center;
 }
 #mv .mv_right figure img {
-  width: 100%;
+  width: 90%;
+  margin: auto;
 }
 #mv .mv_right figure figcaption {
   font-size: 12px;
@@ -369,7 +388,7 @@ main {
 }
 @media screen and (max-width: 768px) {
   #mv .mv_right figure figcaption {
-    width: 80%;
+    width: 90%;
   }
   #mv .mv_right figure figcaption span {
     text-indent: -3em;
@@ -385,6 +404,8 @@ main {
     width: 100%;
     order: 1;
     overflow: hidden;
+    height: 700px;
+    background-image: url(./../images/mv_right_sp.jpg);
   }
   #mv .mv_right figure {
     width: 83%;
@@ -905,6 +926,9 @@ h2.sec_ttl small {
 @media screen and (max-width: 768px) {
   #who .whoweare__message {
     padding: 30px;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 #who .whoweare__message p {
@@ -1796,7 +1820,7 @@ li.toki figcaption::before {
 }
 @media screen and (max-width: 768px) {
   #sponsorship h2 {
-    margin-bottom: 20px;
+    margin-bottom: 50px;
   }
 }
 #sponsorship ul.sponsor_list {
@@ -1912,7 +1936,7 @@ li.toki figcaption::before {
     justify-content: space-between;
   }
   #sponsorship ul.sponsor_sliver li {
-    width: 50%;
+    width: 45%;
     margin-right: 0;
   }
 }
@@ -1929,7 +1953,9 @@ li.toki figcaption::before {
 }
 @media screen and (max-width: 768px) {
   #sponsorship ul.sponsor_bronze li {
-    width: 60px;
+    width: 27%;
+    text-align: center;
+    margin-right: 0;
   }
 }
 

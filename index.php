@@ -87,10 +87,8 @@
 	<div id="mv">
 		<div class="flex">
 			<div class="mv_left">
-				<img src="<?php echo get_template_directory_uri(); ?>/images/mv_left.jpg" alt="">
 			</div>
 			<div class="mv_right">
-				<img src="<?php echo get_template_directory_uri(); ?>/images/mv_right.jpg" alt="">
 				<figure>
 					<img src="<?php echo get_template_directory_uri(); ?>/images/mv_ttl2024-02.png" class="pc" alt="「いただきます」は楽しい。を知ってもらいたい！OneDiningTableFes">
 					<img src="<?php echo get_template_directory_uri(); ?>/images/mv_ttl_sp2024.png" class="sp" alt="「いただきます」は楽しい。を知ってもらいたい！OneDiningTableFes">
@@ -379,7 +377,7 @@
 				</li>
 			</ul> -->
 
-			<figure class="member__img">
+			<figure class="member__img anim_on5">
 				<img src="<?php echo get_template_directory_uri(); ?>/images/whoweare.jpg" alt="" class="pc">
 				<img src="<?php echo get_template_directory_uri(); ?>/images/whoweare_sp.jpg" alt="" class="sp">
 				<figcaption>
@@ -388,7 +386,7 @@
 				</figcaption>
 			</figure>
 
-			<div class="whoweare__message">
+			<div class="whoweare__message anim_on5">
 				<p>
 				「いただきます!!!」この言葉をとにかくたくさんの人たちと一緒にしたい!! みんなで食卓を囲んで、心のこもった食事をする。その当たり前のようで当たり前では無い、その楽しさや温かさは何にも代え難い幸せであります。そんな幸せな時間を1人でも多くの子どもたちに知ってもらう為に僕らの【子ども食堂】の活動があります。名古屋のど真ん中で一緒に叫びましょう！「いただきます!!! 」宜しくお願い致します！<br><span>2024年 実行委員長　水谷 僚</span>
 				</p>
@@ -455,11 +453,12 @@
 					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img01.jpg" alt="">
 				</li>
 				<li>
-					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img15.jpg" alt="">
-				</li>
-				<li>
 					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img16.jpg" alt="">
 				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img15.jpg" alt="">
+				</li>
+				
 				<li>
 					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/silver_img17.jpg" alt="">
 				</li>
