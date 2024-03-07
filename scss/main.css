@@ -1889,6 +1889,9 @@ li.toki figcaption::before {
 #sponsorship ul.sponsor_gold li:nth-child(14) img {
   width: 75%;
 }
+#sponsorship ul.sponsor_gold li:nth-child(15) img {
+  width: 75%;
+}
 @media screen and (max-width: 768px) {
   #sponsorship ul.sponsor_gold li {
     width: 100%;

@@ -1608,13 +1608,17 @@ li.toki figcaption::before {
                     width: 75%;
                 }
             }
+            &:nth-child(15) {
+                img {
+                    width: 75%;
+                }
+            }
             @media screen and (max-width: 768px) {
                 width: 100%;
                 margin-right: 0;
                 &:nth-child(4) {
                     margin-bottom: 20px;
                 }
-
                 &:nth-child(5) {
                     margin-bottom: 00px;
                 }
