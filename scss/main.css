@@ -1737,6 +1737,7 @@ li.toki figcaption::before {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 0.05em;
+  margin-bottom: 30px;
 }
 .ticket .part_text p.link_text {
   margin-top: 40px;

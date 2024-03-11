@@ -287,6 +287,41 @@
 	</section>
 	<!-- //kodomo -->
 
+	<section id="workshop" class="sec">
+		<div class="container workshop_explain_wrap">
+			<div class="ticket">
+				<div class="container">
+					<h2 class="sec_ttl">
+						<span>
+						飲食物 無料提供 <br class="sp">事前整理券のご案内
+						</span>
+					</h2>
+					<div class="part_text">
+						<p>
+							当日は<br>
+							<strong>11：30</strong>と<strong>14：00</strong>のタイミングで<br>
+							名古屋の飲食店・企業様のご協力による飲食物の無料配布を行います。
+						</p>
+							
+						<p>
+							<strong>【1家族2食まで】<br class="sp">【高校生以下のお子様限定】</strong><br>
+							となりますのでご了承ください。
+						</p>
+						<p>
+							下記のリンクより<br class="sp">数量限定ではございますが、<br>
+							事前に整理券を取得できますので、<br class="sp">ご利用ください。
+						</p>
+						<p class="link_text">詳しくはこちらのページから</p>
+						<a href="https://passmarket.yahoo.co.jp/event/show/detail/0290uim5idm31.html" target="_blank" class="common_btn">
+							サイトを見る
+							<img src="https://web.archive.org/web/20230315040737im_/https://onediningtable-fes.jp/wp/wp-content/themes/OneDiningTable/images/blank_icon.svg" alt="">
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
 	<section id="who" class="sec">
 		<div class="container">
 			<h2 class="sec_ttl anim_on5">
