@@ -287,7 +287,7 @@
 	</section>
 	<!-- //kodomo -->
 
-	<section id="workshop" class="sec">
+	<section id="" class="sec">
 		<div class="container workshop_explain_wrap">
 			<div class="ticket">
 				<div class="container">
