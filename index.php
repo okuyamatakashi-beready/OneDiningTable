@@ -602,6 +602,9 @@
 					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img42.jpg" alt="">
 				</li>
 				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img43.jpg" alt="">
+				</li>
+				<li>
 				</li>
 				<li>
 				</li>
