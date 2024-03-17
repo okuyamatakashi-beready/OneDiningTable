@@ -417,7 +417,7 @@
 				<img src="<?php echo get_template_directory_uri(); ?>/images/whoweare_sp.jpg" alt="" class="sp">
 				<figcaption>
 					<span>［実行委員長］水谷僚</span><br>
-					<span>［実行委員］長谷川正和/井山将成/加藤紀昭/土岐龍馬/小林雅之/安田優/井原純也/桑原蓮/花守靖司/鈴木信之介/細江祐貴/淺野倫考</span>
+					<span>［実行委員］長谷川正和/井山将成/加藤紀昭/土岐龍馬/小林雅之/安田優/井原純也/桑原蓮/花森靖司/鈴木信之介/細江祐貴/淺野倫考</span>
 				</figcaption>
 			</figure>
 
@@ -603,6 +603,15 @@
 				</li>
 				<li>
 					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img43.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img44.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img45.jpg" alt="">
+				</li>
+				<li>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/sponsor/bronze_img46.jpg" alt="">
 				</li>
 				<li>
 				</li>
