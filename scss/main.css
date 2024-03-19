@@ -1380,53 +1380,6 @@ li.toki figcaption::before {
   bottom: 0;
   left: 0;
 }
-#stage .time_schedule {
-  background-color: #6fbbb3;
-  padding-top: 100px;
-  padding-bottom: 100px;
-}
-@media screen and (max-width: 768px) {
-  #stage .time_schedule {
-    padding-top: 60px;
-    padding-bottom: 60px;
-  }
-}
-#stage .time_schedule h2 {
-  color: #fff;
-}
-#stage .time_schedule .schedule_list {
-  width: 60%;
-  margin-top: 60px;
-}
-@media screen and (max-width: 768px) {
-  #stage .time_schedule .schedule_list {
-    width: 80%;
-    margin-top: 20px;
-  }
-}
-#stage .time_schedule dl {
-  text-align: center;
-  background-color: #fff;
-  padding: 10px 0;
-}
-#stage .time_schedule dl dt {
-  font-size: 26px;
-  letter-spacing: 0.1rem;
-  color: #6fbbb3;
-  font-weight: bold;
-}
-#stage .time_schedule dl dd {
-  font-size: 18px;
-  font-weight: bold;
-}
-@media screen and (max-width: 768px) {
-  #stage .time_schedule dl dd {
-    font-size: 14px;
-  }
-}
-#stage .time_schedule dl:nth-child(2n-1) {
-  background: #d4e7e3;
-}
 
 /*********************************
 	workshop
@@ -1692,14 +1645,19 @@ li.toki figcaption::before {
   }
 }
 
+#map {
+  background-color: #65BBB1;
+  padding-bottom: 80px;
+}
+
 .map {
   padding-top: 80px;
-  width: 60%;
+  width: 90%;
   margin: 0 auto 60px auto;
 }
 @media screen and (max-width: 768px) {
   .map {
-    width: 90%;
+    width: 100%;
   }
 }
 .map > img {
@@ -1718,6 +1676,68 @@ li.toki figcaption::before {
 .map a.common_btn {
   margin-right: auto;
   margin-left: auto;
+}
+
+.time_schedule {
+  background-color: #6fbbb3;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+@media screen and (max-width: 768px) {
+  .time_schedule {
+    padding-top: 0px;
+    padding-bottom: 60px;
+  }
+}
+.time_schedule h2 {
+  color: #fff;
+}
+.time_schedule .schedule_list {
+  width: 100%;
+  margin-top: 60px;
+}
+@media screen and (max-width: 768px) {
+  .time_schedule .schedule_list {
+    width: 100%;
+    margin-top: 20px;
+  }
+}
+.time_schedule dl {
+  background-color: #fff;
+  padding: 20px 0;
+}
+.time_schedule dl dt {
+  font-size: 26px;
+  letter-spacing: 0.1rem;
+  color: #231815;
+  font-weight: bold;
+  width: 30%;
+  text-align: center;
+}
+@media screen and (max-width: 768px) {
+  .time_schedule dl dt {
+    width: 100%;
+  }
+}
+.time_schedule dl dd {
+  font-size: 18px;
+  font-weight: bold;
+  width: 70%;
+  text-align: left;
+}
+@media screen and (max-width: 768px) {
+  .time_schedule dl dd {
+    font-size: 14px;
+    width: 100%;
+    text-align: center;
+  }
+}
+.time_schedule dl:nth-child(2n-1) {
+  background: #f4ccd0;
+}
+.time_schedule dl:last-of-type dd {
+  width: 100%;
+  text-align: center;
 }
 
 .ticket {

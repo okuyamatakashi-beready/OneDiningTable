@@ -322,6 +322,159 @@
 		</div>
 	</section>
 
+	<section id="map">
+		<div class="container">
+			<div class="map">
+				<h2 class="sec_ttl">
+					<span>
+						MAP
+					</span>
+				</h2>
+				<img src="<?php echo get_template_directory_uri(); ?>/images/main_area.png" alt="" class="pc">
+				<img src="<?php echo get_template_directory_uri(); ?>/images/main_area_sp.png" alt="" class="sp">
+			</div>
+
+			<div class="time_schedule">
+
+				<h2 class="sec_ttl anim_on2">
+					<span>TIME SCHEDULE</span>
+					<small>メインステージタイムスケジュール</small>
+
+				</h2>
+
+				<div class="container schedule_list anim_on2">
+					<dl class="flex">
+						<dt>12:00-</dt>
+						<dd>
+						開会宣言・皆で「いただきます！」
+						</dd>
+					</dl>
+					<dl class="flex">
+						<dt>12:15-</dt>
+						<dd>
+							TEENS ROCK IN AICHI 実行委員会〈バンド〉
+						</dd>
+					</dl>
+					<dl class="flex">
+						<dt>13:30-</dt>
+						<dd>
+							子どもを支援する活動を行う団体紹介
+						</dd>
+					</dl>
+					<dl class="flex">
+						<dt>14:00-</dt>
+						<dd>Nagoya Sing For Life Singers〈ゴスペル〉</dd>
+					</dl>
+					<dl class="flex">
+						<dt>14:40-</dt>
+						<dd>
+						皆で「いただきます！」
+						</dd>
+					</dl>
+					<dl class="flex">
+						<dt>14:45-</dt>
+						<dd>
+						兄弟キッズドラマーjojo ＆ juju with でらドラム<br>
+						〈ドラム演奏〉
+						</dd>
+					</dl>
+					<dl class="flex">
+						<dt>15:15-</dt>
+						<dd>海蔵亮太ステージ〈歌唱〉</dd>
+					</dl>
+					<dl class="flex">
+						<dt>16:00-</dt>
+						<dd>
+							東海学園高校〈弾き語り〉
+						</dd>
+					</dl>
+					<dl class="flex">
+						<dd>
+							閉会宣言
+						</dd>
+					</dl>
+
+				</div>
+				<!-- //schedule_list -->
+				</div>
+				<!-- //time_schedule -->
+
+			<div class="map">
+
+				<img src="<?php echo get_template_directory_uri(); ?>/images/satelate_area.png" alt="" class="pc">
+				<img src="<?php echo get_template_directory_uri(); ?>/images/satelate_area_sp.png" alt="" class="sp">
+			</div>
+
+			<div class="time_schedule">
+
+				<h2 class="sec_ttl anim_on2">
+					<span>TIME SCHEDULE</span>
+					<small>サテライト会場タイムスケジュール</small>
+
+				</h2>
+
+				<div class="container schedule_list anim_on2">
+					<dl class="flex">
+						<dt>12:00-</dt>
+						<dd>
+							開会宣言・皆で「いただきます！」
+						</dd>
+					</dl>
+					<dl class="flex">
+						<dt>12:15-</dt>
+						<dd>
+							スタジオZOO〈キッズダンス〉
+						</dd>
+					</dl>
+					<dl class="flex">
+						<dt>13:30-</dt>
+						<dd>
+							子どもを支援する活動を行う団体紹介〈中継〉
+						</dd>
+					</dl>
+					<dl class="flex">
+						<dt>14:00-</dt>
+						<dd>Grasp dance studio〈キッズダンス〉</dd>
+					</dl>
+					<dl class="flex">
+						<dt>14:40-</dt>
+						<dd>皆で「いただきます！」</dd>
+					</dl>
+					<dl class="flex">
+						<dt>14:45-</dt>
+						<dd>
+							南山中学・高校奇術部<br>
+							〈イリュージョン＆ジャグリング〉
+
+						</dd>
+					</dl>
+					<dl class="flex">
+						<dt>15:15-</dt>
+						<dd>
+							寿商店（下の一色）withマグロ専門仲卸業 <br>
+							加藤商店〈マグロの解体ショー〉
+						</dd>
+					</dl>
+					<dl class="flex">
+						<dt>16:00-</dt>
+						<dd>フロンティアの介護 Presents<br class="sp">〈菓子まきイベント〉</dd>
+					</dl>
+					<dl class="flex">
+						<dd>閉会宣言</dd>
+					</dl>
+
+				</div>
+				<!-- //schedule_list -->
+			</div>
+			<!-- //time_schedule -->
+
+		</div>
+
+		
+	</section>
+
+	
+
 	<section id="who" class="sec">
 		<div class="container">
 			<h2 class="sec_ttl anim_on5">
