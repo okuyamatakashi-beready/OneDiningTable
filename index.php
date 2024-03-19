@@ -122,6 +122,48 @@
 	</div>
 	<!-- //mv_under_image -->
 
+	<section id="youtube">
+		<div class="container">
+			<figure class="logo">
+				<img src="<?php echo get_template_directory_uri(); ?>/images/youtube_logo.png" alt="" class="">
+			</figure>
+
+			<figure class="youtube_logo">
+				<img src="<?php echo get_template_directory_uri(); ?>/images/live_logo.png" alt="" class="">
+			</figure>
+
+			<p class="youtube__text--explain">
+				こちらのQRコード・URLから<br class="sp">当日の様子をLIVE配信しています！<br>
+				イベント中の11時〜17時の会場が<br class="sp">見られますので、ぜひご覧ください♪
+			</p>
+
+			<ul class="flex">
+				<li>
+					<p>
+						メイン会場<br>
+						メディアヒロバ
+					</p>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/mediaQR.png" alt="" class="">
+					<a href="https://youtube.com/live/N-c3S_O7GiM?feature=share" target="_blank" class="common_btn sp">
+						YouTubeで見る
+						<img src="<?php echo get_template_directory_uri(); ?>/images/blank_icon.svg" alt="">
+					</a>
+				</li>
+				<li>
+					<p>
+						サテライト会場<br>
+						シバフヒロバ
+					</p>
+					<img src="<?php echo get_template_directory_uri(); ?>/images/shibahuQR.png" alt="" class="">
+					<a href="https://youtube.com/live/ZaiTDi-u29g?feature=share" target="_blank" class="common_btn sp">
+						YouTubeで見る
+						<img src="<?php echo get_template_directory_uri(); ?>/images/blank_icon.svg" alt="">
+					</a>
+				</li>
+			</ul>
+		</div>
+	</section>
+
 	<section id="about" class="bg trigger">
 		<div class="container about_wrap">
 			<h2 class="box">
@@ -286,6 +328,37 @@
 		
 	</section>
 	<!-- //kodomo -->
+
+	<section id="app">
+		<div class="container">
+			<h2 class="sec_ttl anim_on4">
+				<span>
+				子ども食堂検索アプリ<br><strong>タベレル（tabelel）</strong>
+				</span>
+			</h2>
+
+			<figure class="logo">
+				<img src="<?php echo get_template_directory_uri(); ?>/images/tabelel.jpg" alt="" class="anim_on4">
+			</figure>
+
+			<ul class="flex">
+				<li class="anim_on4">
+					<p>iOSの方はコチラ</p>
+					<a href="https://apps.apple.com/jp/app/id6478947617" target="_blank">
+						<img src="<?php echo get_template_directory_uri(); ?>/images/appstore.png" alt="" class="">
+					</a>
+				</li>
+				<li class="anim_on4">
+					<p>Androidの方はコチラ</p>
+					<a href="https://apps.apple.com/jp/app/id6478947617" target="_blank">
+						<img src="<?php echo get_template_directory_uri(); ?>/images/google-play-badge.png" alt="" class="">
+					</a>
+				</li>
+			</ul>
+
+			<a href="<?php echo get_template_directory_uri(); ?>/images/howto_user_registration.pdf" class="common_btn" downlord="タベレル・ユーザー登録方法.pdf" target="_blank">ユーザー登録方法</a>
+		</div>
+	</section>
 
 	<section id="" class="sec">
 		<div class="container workshop_explain_wrap">

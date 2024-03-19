@@ -505,6 +505,84 @@ h2.sec_ttl small {
 }
 
 /*********************************
+	YouTube
+*********************************/
+#youtube {
+  background-color: #e1c735;
+  padding: 120px 0;
+}
+@media screen and (max-width: 768px) {
+  #youtube {
+    padding: 60px 0;
+  }
+}
+#youtube figure.logo {
+  text-align: center;
+  margin-bottom: 40px;
+}
+#youtube figure.logo img {
+  width: 60%;
+}
+@media screen and (max-width: 768px) {
+  #youtube figure.logo img {
+    width: 80%;
+  }
+}
+#youtube figure.youtube_logo {
+  margin-bottom: 40px;
+}
+#youtube figure.youtube_logo img {
+  width: 100%;
+}
+#youtube p {
+  font-size: 16px;
+  line-height: 2em;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  color: #000;
+}
+@media screen and (max-width: 768px) {
+  #youtube p {
+    font-size: 14px;
+  }
+}
+#youtube p.youtube__text--explain {
+  margin-bottom: 60px;
+  text-align: center;
+}
+@media screen and (max-width: 768px) {
+  #youtube p.youtube__text--explain {
+    margin-bottom: 40px;
+  }
+}
+#youtube ul {
+  justify-content: space-around;
+}
+#youtube ul li {
+  width: 45%;
+  text-align: center;
+}
+@media screen and (max-width: 768px) {
+  #youtube ul li {
+    width: 100%;
+    margin-bottom: 60px;
+  }
+}
+#youtube ul li > img {
+  width: 250px;
+}
+#youtube ul li p {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+#youtube ul li a.common_btn {
+  width: 250px;
+  margin: 30px auto 0 auto;
+  background-color: #f00;
+}
+
+/*********************************
 	about
 *********************************/
 #about {
@@ -801,6 +879,102 @@ h2.sec_ttl small {
     width: 80%;
     left: -36px;
     bottom: -170px;
+  }
+}
+
+/*********************************
+	app
+*********************************/
+#app {
+  padding: 120px 0;
+  background-color: #e1c735;
+}
+@media screen and (max-width: 768px) {
+  #app {
+    padding: 60px 0;
+  }
+}
+#app h2 {
+  margin-bottom: 40px;
+}
+@media screen and (max-width: 768px) {
+  #app h2 {
+    margin-bottom: 40px;
+  }
+}
+#app h2 span {
+  font-size: 22px;
+}
+@media screen and (max-width: 768px) {
+  #app h2 span {
+    font-size: 16px;
+  }
+}
+#app h2 span strong {
+  display: block;
+  font-size: 40px;
+  text-align: center;
+}
+@media screen and (max-width: 768px) {
+  #app h2 span strong {
+    font-size: 20px;
+  }
+}
+#app figure.logo {
+  text-align: center;
+}
+#app figure.logo img {
+  width: 250px;
+}
+@media screen and (max-width: 768px) {
+  #app figure.logo img {
+    width: 200px;
+  }
+}
+#app ul {
+  justify-content: space-around;
+  align-items: flex-start;
+  width: 70%;
+  margin: 60px auto 0 auto;
+}
+@media screen and (max-width: 768px) {
+  #app ul {
+    width: 90%;
+  }
+}
+#app ul li {
+  width: 45%;
+}
+@media screen and (max-width: 768px) {
+  #app ul li {
+    width: 100%;
+    margin-bottom: 60px;
+  }
+  #app ul li:last-child {
+    margin-bottom: 0;
+  }
+}
+#app ul li p {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+#app ul li a {
+  display: block;
+  text-align: center;
+}
+#app ul li a img {
+  width: 250px;
+}
+#app ul li:first-child a img {
+  width: 204px;
+}
+#app a.common_btn {
+  margin: 60px auto 0 auto;
+}
+@media screen and (max-width: 768px) {
+  #app a.common_btn {
+    width: 250px;
   }
 }
 
