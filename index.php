@@ -348,12 +348,12 @@
 						<img src="<?php echo get_template_directory_uri(); ?>/images/appstore.png" alt="" class="">
 					</a>
 				</li>
-				<li class="anim_on4">
+				<!-- <li class="anim_on4">
 					<p>Androidの方はコチラ</p>
 					<a href="https://apps.apple.com/jp/app/id6478947617" target="_blank">
-						<img src="<?php echo get_template_directory_uri(); ?>/images/google-play-badge.png" alt="" class="">
+						<img src="</?php echo get_template_directory_uri(); ?>/images/google-play-badge.png" alt="" class="">
 					</a>
-				</li>
+				</li> -->
 			</ul>
 
 			<a href="<?php echo get_template_directory_uri(); ?>/images/howto_user_registration.pdf" class="common_btn" downlord="タベレル・ユーザー登録方法.pdf" target="_blank">ユーザー登録方法</a>
